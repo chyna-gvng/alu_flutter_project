@@ -1,4 +1,4 @@
-# alu_flutter_project
+# Mobile App Development
 
 A new Flutter project.
 
